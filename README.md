@@ -7,7 +7,9 @@ Getting Started
 
 to use Liri-node you will have to run it from your command prompt.
 
-run npm install  "to install all your dependencies"
+```run npm install``` 
+
+ "to install all your dependencies"
 
 4. Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
 
